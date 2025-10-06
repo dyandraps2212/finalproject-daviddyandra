@@ -90,6 +90,16 @@ Metrik utama dan pelengkap yang digunakan:
 - Visualisasi Confusion Matrix dan Feature Importance
 - Analisis faktor utama pembatalan reservasi
 
+---
+
+## Tableau Dashboard  
+Dashboard dapat diakses melalui link berikut: https://public.tableau.com/app/profile/dyandra.prakasita/viz/HotelBookingAnalytics_17593115891690/Overview?publish=yes
+
+<img width="1836" height="763" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/be751c78-a992-4fe1-a462-0bdc1e1797cb" />
+<img width="1831" height="754" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/0e4d239f-facc-488a-b916-7952e3243676" />
+<img width="1832" height="763" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/9a40250a-3828-4a86-8273-de79f972ea9d" />
+
+
 ## Catatan  
 Proyek ini dibuat untuk tujuan akademik dan demonstrasi.
 Hasil model bersifat probabilistik dan tidak menggantikan keputusan bisnis secara langsung.
